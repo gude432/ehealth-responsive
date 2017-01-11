@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head> 
+</head>
+<body>
+
+<div data-role="page" id="levelPage">
+  <div data-role="header">
+    <h1>ehealth</h1>
+    <!--     <p id="score" class="ui-btn-right">ehealth</p> -->
+  </div>
+
+  <div data-role="main"  class="ui-content">
+    
+    <div id="navContent">
+	<h2 class="title">Valitse Taso</h2>
+<div id = "ui"> </div>
+		</div>			
+	</div>
+	  <div data-position = "fixed" data-role="footer">
+    <h1>___</h1>
+  </div>
+ </div>
+ 
+ <div data-role="page" id="sectionPage">
+  <div data-role="header">
+    <h1>ehealth</h1>
+    <!--     <p id="score" class="ui-btn-right">ehealth</p> -->
+  </div>
+
+  <div data-role="main"  class="ui-content">
+    <h2 class="title">Valitse Jakso</h2>
+    <div id="navContent">
+<div id = "ui"> </div>
+		</div>			
+	</div>
+	  <div data-position = "fixed" data-role="footer">
+    <h1>Metropolia</h1>
+  </div>
+ </div>
+ 
+ 
+
+<div data-role="page" id="questionPage">
+  <div data-role="header">
+    <h1>ehealth</h1>
+        <p id="score" class="ui-btn-right">ehealth</p>
+  </div>
+
+  <div data-role="main"  class="ui-content">
+    
+    <div id="navContent">
+		<div id="game1">
+		<h3 id="question"></h3>
+			<ul id="alts" data-role="listview" data-inset="true">
+				<li id="1" class="option wrap"></li>
+				<li id="2" class="option wrap"></li>
+				<li id="3" class="option wrap"></li>
+				<li id="4" class="option wrap"></li>									
+			</ul>
+			
+			<div id="ui"></div>
+			<div id="avatar"></div>
+		</div>	
+		
+	</div>
+  </div>
+ <div data-role="panel" id="feedbackPanel"> 
+    <h2>Palaute</h2>
+    <p id="feedback"></p>
+	<button id="speak">Read aloud</button>
+  </div> 
+ <div data-position = "fixed" data-role="footer">
+<div id="progressbar"></div>
+  </div>
+</div> 
+
+<div data-role="page" id="finalPage">
+  <div data-role="header">
+    <h1>ehealth</h1>
+    <!--     <p id="score" class="ui-btn-right">ehealth</p> -->
+  </div>
+
+  <div data-role="main"  class="ui-content">
+    
+    <div id="finalPage_feedback">
+
+		</div>			
+	</div>
+	  <div data-position="fixed" data-role="footer">
+    <h1>Metropolia</h1>
+  </div>
+ </div>
+
+	<audio id="mysoundclip" preload="auto">
+      <source src="http://www.tvdsb.ca/webpages/balestrins/files/kidscheer.wav"></source>
+	</audio>
+	<audio id="speak-audio" >
+      <source id="speak-source" src="" type="audio/mpeg"></source>
+	</audio>
+	<audio id="myWrongSoundClip" preload="auto">
+      <source src="img/wrong.wav"></source>
+	</audio>
+ <!-- Include meta tag to ensure proper rendering and touch zooming -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Include the jQuery library -->
+  <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <script src="controller.js"></script>
+  <!-- Include jQuery Mobile stylesheets -->
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">  
+  <!--link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"-->
+  <link rel="stylesheet" href="main.css">  
+  <!-- Include the jQuery Mobile library -->
+  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans|VT323' rel='stylesheet' type='text/css'> 
+  
+ 
+</body>
+</html>

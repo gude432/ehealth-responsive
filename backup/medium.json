@@ -1,0 +1,215 @@
+{
+    "questions": 
+	{
+        "_quiz": [
+            {
+                "question": "Tuleeko liikuntasuorituksen olla yhtäjaksoisesti 1 – 1,5 tuntia?",
+                "option1": "Ei, voi tehdä pienissä osissa vähintään 10 minuuttia kerrallaan.",
+                "option2": "Liikuntasuoritus lasketaan tehdyksi vain, jos se tehdään yhdellä kerralla kokonaan. ",
+                "option3": "Tulisi tehdä ajallisesti kahdessa yhtä pitkässä jaksossa, esimerkiksi 45 minuuttia ja 45 minuuttia.",
+                "option4": "En osaa sanoa.",
+                "description": "Päivittäisen liikunnan tulee sisältää useita vähintään 10 minuuttia kestäviä reippaan liikunnan jaksoja, jotka nostavat hieman sykettä ja kiihdyttävät hengitystä."
+            },
+            {
+                "question": "Saatko päivittäin riittävästi liikuntaa, jos liikut reippaasti hieman sykettä nostaen ja hengästyen?",
+                "option1": "En saa. Päivittäiseen liikuntaan tulee sisältyä myös tehokasta, rasittavaa liikuntaa.",
+                "option2": "Kyllä saan. Liikunta ei saa olla liian raskasta.",
+                "option3": "Kyllä saan, koska ei ole tervettä hengästyä.",
+                "option4": "Kyllä saan. Joka päivä ei tarvitse hengästyä ja sydämen lyödä nopeasti.",
+                "description": "Päivittäiseen liikuntaan tulisi sisältyä myös tehokasta, rasittavaa liikuntaa. Rasittavan liikunnan aikana pitää selvästi hengästyä ja sydämen sykkeen nousta huomattavasti. Tämä saa aikaan voimakkaampia muutoksia kehossa, joilla on edullinen vaikutus terveyteen."
+            },
+            {
+                "question": "Onko suositeltavaa nuorelle harrastaa kuntosalilla käyntiä?",
+                "option1": "Kyllä. Lihaskunnon pohjustaminen tulisi aloittaa jo ennen murrosikää kehon omaa painoa hyödyntäen ja kevyiden lisäpainojen avulla.",
+                "option2": "Kyllä, kun aloittaa ohjattuna.",
+                "option3": "Ei, koska kasvu ja kehitys ovat vielä kesken.",
+                "option4": "Ei, koska kuntosalilla pitää olla täysi-ikäinen.",
+                "description": "Lihaskuntoa ylläpitävää liikuntaa voi tehdä erilaisilla lihaskuntoliikkeillä kuntopiirissä, kuntosalilla ja jumpassa. Kuntosaliharrastus tulee aloittaa ohjattuna, jotta saa opastuksen laitteisiin ja liikkeet tehdään teknisesti oikein."
+            },
+            {
+                "question": "Kuinka usein tulisi treenata lihaskuntoa viikossa?",
+                "option1": "Kolme kertaa viikossa.",
+                "option2": "Kerran viikossa riittää.",
+                "option3": "Päivittäin.",
+                "option4": "Neljä kertaa viikossa.",
+                "description": "Lihaskuntoa tulisi treenata kolme kertaa viikossa."
+            },
+            {
+                "question": "Voiko liikunta auttaa masennukseen?",
+                "option1": "Kyllä, liikunnalla on myös mieltä kohottava vaikutus ja se vähentää ahdistusta ja masennusta.",
+                "option2": "Ei, koska olen kuitenkin huono siinäkin.",
+                "option3": "Kyllä, jos liikun oikein tehokkaasti.",
+                "option4": "Ei auta, silloin pitää syödä hyvin.",
+                "description": "Liikunta vähentää ahdistusta ja masennusoireita."
+            },
+            {
+                "question": "Mitä tarkoitetaan seksuaalioikeuksilla, mitä siihen liittyy?",
+                "option1": "Kaikki mainituista liittyvät nuorten  seksuaalioikeuksiin.",
+                "option2": "Nuorella on oikeus suojella itseään ja tulla suojelluksi raskauksilta, hyväksikäytöltä ja sukupuolitaudeilta. Nuori on oikeutettu descriptionrmaatioon kyseisistä asioista.",
+                "option3": "Nuorella on oikeus nauttia kehostaan ja seksuaalisuudestaan.",
+                "option4": "Nuorella on vapaus ja oikeus sanoa mielipiteensä koskien seksuaalisuutta. Seksuaalisuuteen kuuluu myös velvollisuus olla satuttamatta ja loukkaamatta toista toteuttaessaan omaa seksuaalisuuttaan.",
+                "description": "Nuorten seksuaalioikeudet kattavat oikeuden elämään, oikeuden nauttia seksuaalisuudesta, saada tietoa seksuaalisuudesta, suojella itseä ja tulla suojelluksi, seksuaaliterveydenhuollon ja oikeuden osallistua seksuaalisuuteen liittyviin asioihin."
+            },
+            {
+                "question": "Mitä tarkoittaa sukupuoli-identiteetti?",
+                "option1": "Sukupuoli-identiteetillä tarkoitetaan sitä, miten kokee itsensä ja oman seksuaalisuutensa ja on sinut asian kanssa.",
+                "option2": "Sukupuoli-identiteetti tarkoittaa sitä, miltä haluaa näyttää ulkopuolisille ihmisille.",
+                "option3": "Sukupuoli-identiteetillä tarkoitetaan asiakirjoissa kysyttävää kysymystä: ",
+                "option4": "Sukupuoli-identiteetti tarkoittaa sitä sukupuolta, jolla henkilö esiintyy internetissä.",
+                "description": "Sukupuoli-identiteetti muovautuu elämän aikana, usein jo lapsena. Sukupuoli-identiteetti voi olla nainen, mies tai jotain muuta.  Seksuaalinen suuntautuminen on osa ihmisen identiteettiä."
+            },
+            {
+                "question": "Mitä tarkoitetaan aseksuaalisuudella?",
+                "option1": "Aseksuaalisella ihmisellä  on hyvin vähän seksuaalisia tunteita, ajatuksia ja reaktioita.",
+                "option2": "Aseksuaalinen on erityisen innostunut seksuaalisesti.",
+                "option3": "Aseksuaali on kiinnostunut samasta sukupuolesta.",
+                "option4": "Aseksuaali tarkoittaa samaa kuin neitsyt.",
+                "description": "Aseksuaalisesti suuntautuneella ei ole lainkaan tai on hyvin vähän seksuaalisia ajatuksia, tunteita tai reaktioita."
+            },
+            {
+                "question": "Minkä ikäisenä seksin harrastaminen kuuluu aloittaa?",
+                "option1": "Sen aloittamiselle ei ole oikeaa ikää,  seksielämä tulee aloittaa vasta, kun on  siihen valmis.",
+                "option2": "Avioliitossa.",
+                "option3": "Kun kaverit aloittavat.",
+                "option4": "18-vuotiaana.",
+                "description": "Seksin aloittamiselle ei ole oikeaa aikaa, mutta odottaminen on parempi kuin liian aikainen seksiin ryhtyminen. Kun hyväksyy itsensä, tuntee kumppaninsa, arvostaa toista, pystyy keskustelemaan seksistä, kun kumpikaan ei painosta ja molemmat haluavat, voi olla aika ensimmäiselle seksikokeilulle. "
+            },
+            {
+                "question": "Miten sukupuolitauti HIV:n voi saada?",
+                "option1": "Suojaamattomasta seksistä ja veren välityksellä.",
+                "option2": "Se tarttuu iholta.",
+                "option3": "Yleisistä WC-tiloista.",
+                "option4": "Yhdynnästä, jossa käytetään ehjää kondomia.",
+                "description": "HI-viruksen eli HIV:n voi saada suojaamattomassa seksissä tai veren välityksellä. Virus voi siirtyä myös äidistä lapseen raskauden, synnytyksen tai imetyksen aikana."
+            },
+            {
+                "question": "Mitä tehdä, jos unohtaa ottaa ehkäisypillerin?",
+                "option1": "Kondomia tulee käyttää lisäehkäisynä ja katsoa käytössä olevien ehkäisypillereiden omat ohjeet.",
+                "option2": "Eihän se haittaa, jos joskus unohtuu.",
+                "option3": "Ottaa kolme tablettia .",
+                "option4": "Ottaa jälkiehkäisytabletin.",
+                "description": "Ehkäisypillereiden käytössä tärkeää on säännöllisyys ja tabletit tulisi ottaa mahdollisimman samaan aikaan joka päivä ehkäisytehon takaamiseksi. Jos pillerin ottaminen myöhästyy yli 12 tuntia, on tarpeellista käyttää lisäehkäisynä kondomia seuraavan 7 päivän ajan. Jokaisella pillerimerkillä on omat ohjeet siitä, miten tulisi toimia, jos tabletin unohtaa ottaa. Tällöin apua voi saada myös terveydenhoitajalta, ehkäisyneuvolasta tai lääkäriltä. Ehkäisypillereiden aloittamista varten tarvitaan resepti lääkäriltä."
+            },
+            {
+                "question": "Mitä on mielenterveyshäiriö?",
+                "option1": "Se on häiriö, joka haittaa normaalia elämää.",
+                "option2": "Se tarkoittaa, että aivoissa on jokin piuha väärässä paikkaa.",
+                "option3": "Se tarkoittaa, että olen surullinen enkä iloinen.",
+                "option4": "Se tarkoittaa, että joudut mielisairaalaan.",
+                "description": "Terveyden ja hyvinvoinnin laitoksen (THL:n) mukaan mielenterveyden häiriöstä on kysymys silloin, kun oireet aiheuttavat kärsimystä tai psyykkistä vajaakuntoisuutta, rajoittavat toiminta- ja työkykyä tai osallistumis- ja selviytymismahdollisuuksia. Vakavimmillaan ne voivat vammauttaa lähes täysin ja sulkea ihmisen yhteiskunnan toimintojen ja sosiaalisten suhteiden ulkopuolelle. "
+            },
+            {
+                "question": "Anoreksia ja bulimia ovat...",
+                "option1": "...syömishäiriöitä.",
+                "option2": "...tärkeitä vitamiinipitoisia vihanneksia.",
+                "option3": "...vaarattomia virustauteja.",
+                "option4": "...kreikkalaisten jumalien nimiä.",
+                "description": "Anoreksiaa eli laihuushäiriötä sairastava nuori kokee itsensä liian lihavaksi. Laihuushäiriö alkaa yleensä laihdutusyrityksestä, joka riistäytyy syömättömyydeksi. Nuori pitää itseään liian lihavana, vaikka on selvästi liian laiha.  Bulimiaan eli ahmimishäiriöön kuuluu toistuva kohtauksittain liikasyöminen. Nuori tuntee voimakasta halua syödä eikä pysty lopettamaan syömistä. Ahmimisen jälkeen nuori yleensä katuu tekoaan ja oksentaa."
+            },
+            {
+                "question": "Mikä on unirytmi?",
+                "option1": "Kuinka paljon nukun vuorokaudessa.",
+                "option2": "Sillä tarkoitetaan unen eri syvyyksien rytmiä.",
+                "option3": "Nukunko yleensä päivällä vai yöllä.",
+                "option4": "Sillä tarkoitetaan millaisia unia näen esimerkiksi viikon aikana.",
+                "description": "Unirytmi kertoo, kuinka paljon ihminen nukkuu päivässä. Lapsuudessa ja alakoulussa unen kokonaiskesto on 9 – 10h/ yö ja päiväväsymys on hyvin harvinaista.  Murrosiässä syvä uni vähenee aikuisen tasolle ja samalla kevyen unen määrä lisääntyy. Tämän on todettu olevan yhteydessä seksuaaliseen kypsymiseen ja se tapahtuu tytöillä aikaisemmin kuin pojilla."
+            },
+            {
+                "question": "Kuinka monta tuntia 7. luokkalainen nukkuu yössä?",
+                "option1": "Noin 8 tuntia.",
+                "option2": "5 tuntia.",
+                "option3": "10 tuntia.",
+                "option4": "12 tuntia.",
+                "description": "Vuonna 2010 tehdyn koululaistutkimuksen mukaan suomalaiset 13-vuotiaat tytöt nukkuivat keskimäärin 8h 18min ja 15-vuotiaat 7h 52min. Pojilla vastaavat tuntimäärät olivat 8h 34min ja 8h 1min. Seitsemän tuntia tai vähemmän yöunia kouluöinä nukkui 13-vuotiaista tytöistä 11,8% ja pojista 7,3% ja 15-vuotiaista tytöistä 21,8% ja pojista 18,3%. "
+            },
+            {
+                "question": "Millaisia unen muutoksia nuoruusiällä tapahtuu?",
+                "option1": "Nuori tuntee itsensä väsyneemmäksi, nukkuu vähemmän ja nukkumaanmenoaika siirtyy myöhemmäksi.",
+                "option2": "Silloin näkee enemmän unia.",
+                "option3": "Silloin nukkuu enemmän vatsallaan kuin selällään.",
+                "option4": "Silloin näkee vähemmän unia.",
+                "description": "Keskeisiä unen muutoksia nuoruusiällä ovat päiväaikaisen väsymyksen lisääntyminen (mikä on myös yleisin nuorten unihäiriöitä aiheuttava tekijä), unen kokonaismäärän väheneminen, unen keveneminen ja vuorokausirytmin siirtyminen myöhäisemmäksi lapsuuteen verrattuna. "
+            },
+            {
+                "question": "Mikä on keskeisin nuorten uneen vaikuttava tekijä?",
+                "option1": "Stressi.",
+                "option2": "Ruokavalio.",
+                "option3": "Kaveripiiri.",
+                "option4": "Meneekö nukkumaan ajoissa.",
+                "description": "Stressi on yksi keskeisimmistä nuorten unen pituuteen ja laatuun vaikuttava tekijä. Unettomuuden syynä pidetään ylivirittyneisyyden tilaa eli stressitilanteen laukaisemaa tilaa, jossa keho ei pysty rauhoittumaan, mikä taas olisi nukahtamisen edellytys.  Ruotsalaisen tutkimuksen mukaan nuorten kokema stressi selitti huomattavasti suuremman osan nuorten univaikeuksista kuin liikuntatottumukset tai kofeiinin ja alkoholin käyttö. "
+            },
+            {
+                "question": "Jos valvoo myöhään, pitäisikö nukkua pidempään?",
+                "option1": "Kyllä pitäisi. ",
+                "option2": "Ei missään nimessä.",
+                "option3": "Ei pitäisi, koska muuten en ehdi kouluun.",
+                "option4": "Nukun pidempään vain viikonloppuisin.",
+                "description": "Unen säätely vastaa riittävästä unen määrästä ja syvyydestä: mitä pitempään valvotaan, sitä enemmän ja syvempää unta nukutaan seuraavana yönä. Merkittävä osa nuorista kärsii riittämättömästä unesta etenkin kouluviikon aikana, koska nukkumaanmeno on siirtynyt myöhemmäksi ja kouluun meno vaatii aikaista heräämistä."
+            },
+            {
+                "question": "Mikä seuraavista ruoista on hyvä raudan lähde?",
+                "option1": "Punainen liha ja sisäelimet.",
+                "option2": "Kala.",
+                "option3": "Maito.",
+                "option4": "Banaani.",
+                "description": "Eläinkunnan tuotteista saatava rauta imeytyy paremmin kuin kasvikunnan tuotteista saatu rauta."
+            },
+            {
+                "question": "Miten rauta ja C-vitamiini liittyvät toisiinsa?",
+                "option1": "Rauta imeytyy C-vitamiinin avulla.",
+                "option2": "Rauta estää C-vitamiinin imeytymistä.",
+                "option3": "Eivät mitenkään.",
+                "option4": "C-vitamiini estää raudan imeytymistä.",
+                "description": "Raudan imeytymiseen tarvitaan C-vitamiinia. Kahvi, tee ja maitotuotteet taas estävät raudan imeytymistä."
+            },
+            {
+                "question": "Onko nuuska muita terveellisempi päihde?",
+                "option1": "Ei.",
+                "option2": "Kyllä!  Se on parempi kuin tupakka.",
+                "option3": "Voi sitä joskus käyttää.",
+                "option4": "Ihan ok, se ei aiheuta pahemmin riippuvuutta.",
+                "description": "Nuuskan nikotiiniannos on vähintään yhtä suuri kuin tupakan. Nuuskassa on yli 2500 kemikaalia, mm. arsenikkia, kadmiumia sekä lyijyä. Aineet aiheuttavat erityisesti suusyöpää, joka on vaikeasti hoidettava syöpä. Nuuska aiheuttaa myös hampaiden tummumista, haisevan hengityksen ja suun limakalvon huonosti paranevia haavaumia."
+            },
+            {
+                "question": "Pääseekö tupakasta eroon?",
+                "option1": "Totta kai!",
+                "option2": "En halua päästä siitä eroon.",
+                "option3": "Se on hankalaa.",
+                "option4": "Voihan sitä polttaa vaan vähän tai silloin tällöin.",
+                "description": "Eroon pääsee, jos itse haluaa. Nuorena tupakan vaikutukset eivät välttämättä näy tai tunnu muutoin kuin hengityksen ja sormien hajuna ja rahanmenona. Voisiko esimerkiksi kaveriporukassa tehdä lopettamispäätöksen? Nikotiinivalmisteet auttavat lopettamisessa. Neuvoa voi myös kysyä kouluterveydenhoitajalta."
+            },
+            {
+                "question": "Vaikuttaako runsas alkoholinkäyttö ihmissuihteisiini?",
+                "option1": "Alkoholin käyttö voi vaikuttaa ihmissuhteisiin.",
+                "option2": "Vaikuttaahan se, mutta ei merkittävästi.",
+                "option3": "Mitä väliä sillä on? Se on jokaisen oma asia.",
+                "option4": "Se vaikuttaa vain minuun itseeni!",
+                "description": "Kyllä, runsas alkoholinkäyttö vaikuttaa kaikkiin läheisiin, kuten perheeseen ja kavereihin. Yleensä kännissä tulee hölmöiltyä. Sillä on myös vaikutusta opiskelumotivaatioon ja rahankäyttöön. Oma terveys on lisäksi vaakalaudalla. Alkoholi myös vaikuttaa nuoren aivoihin enemmän kuin aikuisen, joten riski saada pysyviä muutoksia on suurempi."
+            },
+            {
+                "question": "Kuinka nuori päätyy kokeilemaan huumetta?",
+                "option1": "Yleensä kaverin kautta.",
+                "option2": "Taustalla on halu kokeilla.",
+                "option3": "Nuori kokeilee huumeita, koska niitä saa niin helposti.",
+                "option4": "Eivät nuoret käytä huumeita.",
+                "description": "Useimmin nuori tutustuu huumeisiin vanhemman kaverin kautta."
+            },
+            {
+                "question": "Voiko alkoholinkäytön lopettaa?",
+                "option1": "Kyllä voi!",
+                "option2": "Se on vaikeaa, eli ei voi.",
+                "option3": "Ei tarvitse lopettaa, koska alkoholia voi käyttää satunnaisesti.",
+                "option4": "Ei voi kun kaikki kaveritkin juo.",
+                "description": "Kyllä voi! Joskus alkoholista eroon pääseminen vaatii vanhoista kavereista luopumista tai yhteisen päätöksen tekemistä juomisen lopettamiseksi."
+            },
+            {
+                "question": "Mistä tietää, että omasta alkoholin juomisesta on tullut ongelma?",
+                "option1": "Ahdistaa ja rahat ovat loppu.",
+                "option2": "Ei sitä tiedä ellei ole alkoholisti.",
+                "option3": "Viikonloppujuominen ei ole ongelma.",
+                "option4": "Ei siitä tule nuorille ongelmaa.",
+                "description": "Kun kännissä tulee mokailtua, rahat ovat koko ajan loppu ja ystävät tai perhe sanovat asiasta on aika kiinnittää huomiota omaan juomiseen."
+            }
+        ]
+    }
+}

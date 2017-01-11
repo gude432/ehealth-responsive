@@ -1,0 +1,303 @@
+{
+    "questions": 
+    {
+        "_quiz": [
+            {
+                "question": "Kuinka paljon ajallisesti nuoren tulisi liikkua päivässä?",
+                "option1": "1 – 1,5 tuntia.",
+                "option2": "30 minuuttia.",
+                "option3": "2 tuntia.",
+                "option4": "Ei tarvitse päivittäin liikkua, esimerkiksi 3 kertaa viikossa riittää.",
+                "description": "13 – 18 vuotias nuori tarvitsee liikuntaa vähintään 1 – 1,5 tuntia päivässä."
+            },
+            {
+                "question": "Miten liiallinen yli 2 tuntinen yhtäjaksoinen istuminen vaikuttaa terveyteen?",
+                "option1": "Liiallisella istumisella on yhteyksiä lihavuuteen ja tuki- ja liikuntaelinoireisiin.",
+                "option2": "Liiallinen istuminen ei vaikuta terveyteen.",
+                "option3": "Liiallinen istuminen tekee vain olosta hetkellisesti laiskan ja väsyneen.",
+                "option4": "Liiallinen istuminen tekee levottomaksi.",
+                "description": "Liiallisella istumisella on todettu olevan yhteyksiä terveyteen, kuten lihavuuteen ja tuki- ja liikuntaelinoireisiin."
+            },
+            {
+                "question": "Mistä johtuu nuorten lisääntynyt lihavuus ja terveysongelmat?",
+                "option1": "Koska arkipäivään kuuluva liikunta ja fyysinen aktiivisuus ovat vähentyneet ja viihdemedian ääressä käytetty aika on lisääntynyt.",
+                "option2": "Nuoret syövät nykyisin enemmän.",
+                "option3": "Nykyisin on herkkuja ja epäterveellistä ruokaa aina tarjolla.",
+                "option4": "Tupakoinnista.",
+                "description": "Päivittäisen liikunnan ja fyysisen aktiivisuuden vähentyminen vaikuttaa fyysisen kunnon heikkenemiseen ja lihomiseen."
+            },
+            {
+                "question": "Kuinka kauan on sopivaa istua päivässä television tai tietokoneen tai muun viihdemedian ääressä?",
+                "option1": "Maksimissaan 2 tuntia päivässä.",
+                "option2": "Voi istua kuinka paljon vain haluaa, mutta ei yhtäjaksoisesti.",
+                "option3": "Vain 30 minuuttia.",
+                "option4": "4 tuntia päivässä.",
+                "description": "Ruutuaikaa tulisi rajoittua kahteen tuntiin päivässä. Runsas pelaaminen, television katselu tai muu ruudun ääressä vietetty aika vie monilta nuorilta aikaa fyysisestä aktiivisuudesta. Ruudun ääressä oleminen on usein fyysisesti täysin passiivista aikaa ja lisäksi siihen usein kuuluu epäterveellistä napostelua."
+            },
+            {
+                "question": "Lasketaanko päivittäiseen liikuntaan kävely, pyöräily tai kelaaminen pyörätuolilla esimerkiksi koulumatkalla?",
+                "option1": "Kyllä, jos kävelet, poljet tai kelaat reippaasti hieman sykettä nostaen ja hengästyen.",
+                "option2": "Ei, koska koulumatka on vain siirtymistä paikasta toiseen.",
+                "option3": "Ei, koska pyörätuolilla ei tarvitse käyttää jalkoja liikkumiseen.",
+                "option4": "Ei, koska kuljen koulumatkan yhdessä luokkakaverin kanssa.",
+                "description": "Reipas kävely, pyöräily tai kelaaminen pyörätuolilla ovat hyviä vaihtoehtoja päivittäiseen reippaaseen liikuntaan."
+            },
+            {
+                "question": "Miksi liikunnan tulee olla rasittavaa niin, että syke selvästi nousee ja hengästyy?",
+                "option1": "Tehokas ja rasittava liikunta vaikuttaa kestävyyskunnon kehittymiseen ja sydänterveyteen.",
+                "option2": "Lihaksien pitää mennä välillä hapoille.",
+                "option3": "Muuten liikunnasta ei ole mitään hyötyä.",
+                "option4": "Jotta tietää liikkuneensa.",
+                "description": "Tämä saa aikaan voimakkaampia muutoksia elimistössä, joilla on edullinen vaikutus terveyteen. Esimerkiksi kestävyyskunnon kehittämisen ja sydänterveyden kannalta tehokas liikunta on vaikuttavampaa kuin kevyt tai reipas liikunta."
+            },
+            {
+                "question": "Liikunta on terveellistä monella tapaa. Mikä seuraavista vastauksista on totta?",
+                "option1": "Liikunta auttaa keskittymään ja oppimaan koulussa tunneilla.",
+                "option2": "Liikunta ei ole hyödyllistä.",
+                "option3": "Liikkuminen kasvattaa aivoja.",
+                "option4": "Nuori kuluttaa energiaa kaksi kertaa enemmän kuin aikuinen liikkuessaan.",
+                "description": "Liikunnalla on kaiken muun lisäksi myös lasten tiedollista toimintaa, oppimista ja koulumenestystä edistävä vaikutus."
+            },
+            {
+                "question": "Miksi nuorten tulisi harrastaa liikuntaa päivässä 1 – 1,5 tuntia?",
+                "option1": "Nuori elää vielä voimakasta kasvun ja kehityksen aikaa ja liikunnan tarve ei eroa paljoa lapsuusiän tarpeesta.",
+                "option2": "Koska aikuiset niin haluavat.",
+                "option3": "Jottei jäisi aikaa pahanteolle.",
+                "option4": "Jotta nuori ei nukkuisi liikaa.",
+                "description": "Nuori elää vielä voimakasta kasvun ja kehityksen aikaa ja liikunnan tarve ei eroa paljoa lapsuusiän tarpeesta."
+            },
+            {
+                "question": "Miten löydän minua miellyttävän liikuntamuodon?",
+                "option1": "Kokeilemalla erilaisia liikuntamuotoja.",
+                "option2": "Liikun niin kuin vanhemmat sanovat.",
+                "option3": "Harrastan sitä liikuntaa mikä on milloinkin suosituinta.",
+                "option4": "En voi löytää mistään minua miellyttävää liikuntamuotoa.",
+                "description": "Kokeileminen auttaa nuorta löytämään itselleen sopivan tavan harrastaa liikuntaa. Liikunnan pitäisi olla hauskaa, monipuolista ja vaihtelevaa sekä tuottaa iloa ja elämyksiä nuorille, jotta motivaatio sen harrastamiseen säilyy."
+            },
+            {
+                "question": "Miten kehitän maksimaalista hapenottokykyä?",
+                "option1": "Liikuntaa tulee harrastaa 30 – 60 minuuttia kerrallaan 3 – 4 päivänä viikossa ja sitä tulee jatkaa 1 – 3 kuukauden ajan.",
+                "option2": "Hengittämällä syvään.",
+                "option3": "Se kehittyy kasvun mukana.",
+                "option4": "Sitä ei voi kehittää mitenkään.",
+                "description": "Maksimaalisen hapenottokyvyn kehittämiseksi liikuntaa tulisi harrastaa 30 – 60 minuuttia kerrallaan 3 – 4 päivänä viikossa ja sitä tulisi jatkaa vähintään 1 – 3 kuukauden ajan."
+            },
+            {
+                "question": "Voinko ehkäistä sairauksia harrastamalla liikuntaa?",
+                "option1": "Kyllä, liikunnalla voin ehkäistä monia sairauksia, kuten esimerkiksi diabetesta ja verenpainetautia.",
+                "option2": "Ei, koska liikunnalla ei ole vaikutuksia sairauksiin.",
+                "option3": "Ei. Liikunta voi aiheuttaa sairauksia.",
+                "option4": "En, koska vain lääkkeet auttaa sairauksiin.",
+                "description": "Säännöllinen liikunta ehkäisee valtimosairauksien riskitekijöiden kuten ylipainon, korkean verenpaineen, epäedullisten veren rasva-arvojen sekä insuliiniresistenssin kehittymistä. Fyysisesti aktiivisilla ja hyväkuntoisilla lapsilla on todettu olevan pienempi painoindeksi sekä veren terveydelle edullisemmat rasva-arvot, parempi insuliiniherkkyys ja valtimoseinämän toiminta huonokuntoisiin lapsiin verrattuna."
+            },
+            {
+                "question": "Miksi liikunnan harrastaminen on tärkeää?",
+                "option1": "Liikunnalla on niin monia hyviä vaikutuksia nuoren elämään ja hyvinvointiin. ",
+                "option2": "Kun liikun, voin syödä mitä tahdon, vaikka epäterveellisestikin.",
+                "option3": "Liikuntaa harrastamalla pysyn nuorena.",
+                "option4": "Liikunnan harrastaminen on tärkeää vain aikuisten mielestä.",
+                "description": "Se lisää energiankulutusta, auttaa energiatasapainon säilyttämisessä sekä vaikuttaa aineenvaihduntaan myönteisesti. Liikunta vahvistaa myös tuki- ja liikuntaelimistöä sekä vähentää ahdistusta ja masennusoireita. Motoriset taidot ja fyysinen toimintakyky kehittyvät monipuolisen liikunnan seurauksena. Liikunnalla on uusimpien tutkimuksien mukaan myös lasten tiedollista toimintaa, oppimista ja koulumenestystä edistävä vaikutus."
+            },
+            {
+                "question": "Mitä tarkoittaa homoseksuaalisuus?",
+                "option1": "Homoseksuaalit ovat seksuaalisesti kiinnostuneita saman sukupuolen edustajista.",
+                "option2": "Homoseksuaaleilla ei ole juurikaan seksuaalista kiinnostusta mitään kohtaan.",
+                "option3": "Homoseksuaalisuus tarkoittaa, että on kiinnostunut sekä miehistä että naisista.",
+                "option4": "Homoseksuaali tuntee, ettei kukaan ole kiinnostunut hänestä.",
+                "description": "Homoseksuaali tuntee vetovoimaa samaa sukupuolta olevaa henkilöä kohtaan. Nainen, joka on kiinnostunut seksuaalisesti naisista kutsutaan lesboksi ja miestä, joka on kiinnostunut miehistä, kutsutaan homoksi. Biseksuaali tuntee vetovoimaa sekä naisia, että miehiä kohtaan. Kiinnostuksenkohde voi muuttua elämän eri vaiheissa ja biseksuaalilla on usein elämänsä aikana seurustelukumppaneina sekä miehiä, että naisia. Heteroseksuaali tuntee psyykkistä ja fyysistä vetovoimaa vastakkaista sukupuolta kohtaan."
+            },
+            {
+                "question": "Mitkä seuraavista ovat murrosiän muutoksia tytöllä?",
+                "option1": "Kaikki mainituista liittyvät tytön murrosiän muutoksiin.",
+                "option2": "Kuukautiset alkavat.",
+                "option3": "Karvoitus lisääntyy.",
+                "option4": "Rinnat kasvavat.",
+                "description": "Tytöillä murrosiän fyysiset muutokset näkyvät usein ensimmäisenä rinnoissa. Rinnat aristavat ja kasvavat. Lisäksi ilmaantuu häpykarvoitusta, tulee pituuskasvupyrähdys ja kuukautiset alkavat. Kuukautisten myötä tyttö saavuttaa lisääntymiskyvyn. Kuukautisten alkaessa niiden epäsäännöllisyys on tavallista. Murrosiässä tytön lantiokaari muotoutuu mahdollistaen synnyttämisen ja kehoon tulee lisää naisellisia muotoja."
+            },
+            {
+                "question": "Mikä seuraavista ei ole pojan murrosiän muutoksia?",
+                "option1": "Lisääntynyt hiustenkasvu.",
+                "option2": "Kivesten ja peniksen kasvu.",
+                "option3": "Karvoituksen lisääntyminen.",
+                "option4": "Äänenmurroksen alkaminen.",
+                "description": "Pojilla murrosiän alkamisesta viestivät kivesten ja peniksen kasvaminen, häpykarvoitus ja pituuskasvupyrähdys. Murrosiässä  pojan kurkunpää ja äänihuulet kasvavat, minkä seurauksena ääni madaltuu. Äänenmurros tulee esiin äänen korkeuksien vaihteluna. Parrankasvu voi alkaa murrosiässä, toisilla se alkaa vasta armeijaikäisenä."
+            },
+            {
+                "question": "Milloin murrosikä tavallisimmin alkaa?",
+                "option1": "8 – 13 -vuotiaana.",
+                "option2": "11 – 12 -vuotiaana.",
+                "option3": "14 – 16 -vuotiaana.",
+                "option4": "17-vuotiaana.",
+                "description": "Murrosikä käynnistyy hormonaalisilla muutoksilla elimistössä. Murrosikä kestää yleensä 2 – 5 vuotta. Tytöillä se alkaa yleensä 8 – 13 vuoden iässä ja pojilla 9 – 13 vuoden iässä. Murrosiän aikana nuoresta kehittyy fyysisesti aikuinen."
+            },
+            {
+                "question": "Mistä voi varmistua, että internetissä tapaama henkilö on se, joksi hän esittelee itsensä?",
+                "option1": "Koskaan ei voi täysin tietää, kuka linjan toisessa päässä on.",
+                "option2": "Hän on lähettänyt itsestään kuvan.",
+                "option3": "Hän ehdottaa tapaamista.",
+                "option4": "Hän on mukava.",
+                "description": "Nettiseurustelussa kannattaa muistaa, ettei koskaan voi olla varma, kuka toisessa päässä kirjoittelee. Netissä tulee myös olla tarkkana, millaisia kuvia lähettää, sillä aina on riski, että kuva päätyy vääriin käsiin. Jos tapaat netissä tapaamasi henkilön, sovi tapaaminen julkiselle paikalle ja ota kaveri mukaan."
+            },
+            {
+                "question": "Miten ehkäisypillerit voi hankkia?",
+                "option1": "Lääkäri kirjoittaa reseptin ehkäisypillereistä.",
+                "option2": "Kavereilta.",
+                "option3": "Apteekista ilman reseptiä.",
+                "option4": "Ei ehkäisyä tarvita.",
+                "description": "Ehkäisypillereiden aloittamista varten tarvitaan resepti lääkäriltä. Ennen lääkärillä käyntiä on hyvä käydä esimerkiksi kouluterveydenhoitajan vastaanotolla keskustelemassa ehkäisystä ja sen tarpeesta."
+            },
+            {
+                "question": "Mitä on mielenterveys?",
+                "option1": "Se on hyvinvoinnin tila.",
+                "option2": "Aivot ovat terveet.",
+                "option3": "Se tarkoittaa, että olen iloinen enkä surullinen.",
+                "option4": "Se on uusin aplikaatio älypuhelimelle.",
+                "description": "Maailman terveysjärjestön (WHO:n) mukaan mielenterveys on hyvinvoinnin tila, jossa yksilö ymmärtää omat kykynsä, pystyy toimimaan elämän normaaleissa stressitilanteissa ja työskentelemään tuottavasti tai tuloksellisesti, ja kykenee toimimaan yhteisön jäsenenä."
+            },
+            {
+                "question": "Voiko kiusaaminen tai kiusatuksi tuleminen aiheuttaa mielenterveyshäiriöitä?",
+                "option1": "Kyllä.",
+                "option2": "Ei.",
+                "option3": "Ei voi, koska kiusatut ovat aina fiksumpia.",
+                "option4": "Ei voi, koska mielenterveyshäiriöitä ei ole olemassa.",
+                "description": "Kiusatuksi tulleilla nuorilla on lisääntynyt riski sairastua mielenterveyshäiriöihin. Kiusatut kokevat luokkatovereitaan enemmän stressiä ja itsetuhoisuutta."
+            },
+            {
+                "question": "Masennuksen oireita…",
+                "option1": "...ovat masentunut mieliala tai selvästi vähentynyt mielenkiinto tai mielihyvä.",
+                "option2": "...esiintyy eniten, kun pitäisi tehdä läksyt ja siivota.",
+                "option3": "...ei ole olemassakaan. On vain totuus ja rakkaus raukkoja varten.",
+                "option4": "...ovat koulukirjojen lukeminen ja liiallinen salaatin syönti.",
+                "description": "Masennuksen oireita ovat masentunut mieliala tai selvästi vähentynyt mielenkiinto tai mielihyvä. Masennustila eli depressio tarkoittaa oireyhtymää, johon masentuneen mielialan lisäksi kuuluu muita oireita ja toimintakyvyn laskua. "
+            },
+            {
+                "question": "Voiko nuori sairastaa masennusta?",
+                "option1": "Voi.",
+                "option2": "Ei voi.",
+                "option3": "Voi, jos saa tartunnan masentuneesta henkilöstä.",
+                "option4": "Ei voi, koska en ole koskaan tavannut masentunutta nuorta.",
+                "description": "Masennuksen esiintyvyys nousee huomattavasti puberteetin alkamisen jälkeen. Nuorista 5 – 10 % sairastaa masennusta, ja heistä pitkäaikaisesti 1 – 2 %. Tyttöjen riski poikiin verrattuna on noin kaksinkertainen ja erityisen suuri riski on sellaisilla nuorilla, joiden vanhemmat sairastavat masennusta."
+            },
+            {
+                "question": "Mikä seuraavista on itsetuhoinen teko?",
+                "option1": "Itsensä viiltely.",
+                "option2": "Kaadun portaissa vahingossa.",
+                "option3": "Päätän olla menemättä treeneihin vaikka tiedän liikunnan olevan terveellistä.",
+                "option4": "Pukeudun vähiin vaatteisiin, koska haluan näyttää hyvältä bileissä, vaikka ulkona on -10 astetta pakkasta.",
+                "description": "Itsetuhoiseksi käyttäytymiseksi voidaan määritellä kaikki ajatukset ja teot, jotka uhkaavat nuoren terveyttä tai henkeä. Tietoinen riskinotto ei kutenkaan ole itsetuhoisuutta. Nykykäsityksen mukaan viiltely on itsetuhoista käytöstä. Tutkimusten mukaan nuoret kertovat itsetuhoisista ajatuksistaan mieluummin ikätovereilleen kuin aikuisille. Noin puolet itsemurhaa yrittävistä nuorista ovat jossain vaiheessa kertoneet aikeistaan jollekin."
+            },
+            {
+                "question": "Miten nuoren käytöshäiriöt ilmenevät?",
+                "option1": "Ne voivat ilmetä aggressiivisuutena ja sääntöjen rikkomisena.",
+                "option2": "Ne ilmenevät kiltteytenä, läksyjen tekemisenä ja aikaisin nukkumaan menemisenä.",
+                "option3": "On koko ajan arestissa.",
+                "option4": "Liiallisena pelaamisena.",
+                "description": "Lasten ja nuorten käytöshäiriölle on ominaista toistuva ja itsepintainen muiden oikeuksia ja sosiaalisia normeja rikkova käytös. Käytökselle on ominaista aggressiivisuus, toisten omaisuuden tahallinen tuhoaminen, vilpillisyys ja sääntöjen rikkominen. "
+            },
+            {
+                "question": "Miten vahvistan mielenterveyttäni?",
+                "option1": "Kaikilla edellisillä vastauksilla.",
+                "option2": "Liikkumalla hyvin.",
+                "option3": "Nukkumalla hyvin.",
+                "option4": "Syömällä hyvin.",
+                "description": "Ruokailu, liikunta ja riittävä uni ovat tärkeitä mielenterveydelle. Sen lisäksi omaa mielenterveyttä voi vahvistaa rentoutumisella ja suunnitelmallisella ajankäytöllä. Omia ihmissuhteita ei saa unohtaa. Läheisille ja kavereille voi jakaa päivän tapahtumat ja keskustella niistä. "
+            },
+            {
+                "question": "Kuinka paljon nukumme?",
+                "option1": "Kolmasosan elämästämme.",
+                "option2": "Kaksi kolmasosaa elämästämme.",
+                "option3": "Kolme kolmasosaa elämästämme.",
+                "option4": "Yhden neljäsosan elämästämme.",
+                "description": "Nukumme lähes kolmasosan elämästämme. Eli 99-vuotias nukkuu lähes 33 vuotta."
+            },
+            {
+                "question": "Paljonko murrosikäisen tulisi nukkua yössä?",
+                "option1": "Yhdeksän tuntia.",
+                "option2": "Kuusi tuntia.",
+                "option3": "Kaksitoista tuntia.",
+                "option4": "Neljä ja puolituntia.",
+                "description": "Keskimääräinen unentarve murrosiässä on yhdeksän tuntia yössä. Nuoruusiällä vuorokausirytmi siirtyy noin 1-3 tuntia myöhemmäksi. Merkittävä osa nuorista kärsii riittämättömästä unesta etenkin kouluviikon aikana, koska nukkumaanmeno on siirtynyt myöhemmäksi ja kouluun meno vaatii aikaista heräämistä."
+            },
+            {
+                "question": "Siirtyykö nuoren nukahtamisaika myöhemmäksi murrosiässä?",
+                "option1": "Kyllä.",
+                "option2": "Vain, jos on jotain muuta tärkeämpää tekemistä.",
+                "option3": "Ei.",
+                "option4": "Ei, jos liikkuu ja syö paljon.",
+                "description": "Nuoruusiällä vuorokausirytmi siirtyy noin 1-3 tuntia myöhemmäksi. Keskieurooppalaisessa tutkimuksessa 12-13 -vuotiaiden keskimääräinen nukahtamisaika arki-iltoina oli puoli yksitoista, 14-15 -vuotiaiden puoli kaksitoista ja 16-18 -vuotiaiden puolenyön tuntumassa."
+            },
+            {
+                "question": "Mikä seuraavista on hyvä C-vitamiinin lähde?",
+                "option1": "Kasvikset ja hedelmät.",
+                "option2": "Liha.",
+                "option3": "Maito.",
+                "option4": "Kookospähkinä.",
+                "description": "Eniten C-vitamiinia on paprikoissa, ruusunmarjoissa sekä sitrushedelmissä."
+            },
+            {
+                "question": "Mikä seuraavista on hyvä kalsiumin lähde?",
+                "option1": "Maitotuotteet sekä kala.",
+                "option2": "Hedelmät.",
+                "option3": "Marjat.",
+                "option4": "Perunat.",
+                "description": "Kalsiumia tarvitaan luuston rakennusaineeksi varsinkin lapsilla ja nuorilla."
+            },
+            {
+                "question": "Mikä on hyvä välipala?",
+                "option1": "Smoothie ja sämpylä.",
+                "option2": "McDonaldsin hampurilainen.",
+                "option3": "Ei välipala ole välttämätön.",
+                "option4": "Energiajuoma ja suklaa.",
+                "description": "Hyvän välipalan perusta on riittävä energian saanti, jolla jaksaa seuraavaan ruokaan asti. Energiajuoma, suklaa sekä hampurilainen eivät täytä pidemmäksi aikaa ja niiden sisältämä rasva lisää koko päivän rasvansaantia liikaa."
+            },
+            {
+                "question": "Mikä on hyvä kuidun lähde?",
+                "option1": "Täsviljatuotteet.",
+                "option2": "Karkki.",
+                "option3": "Pasta ja makaroni.",
+                "option4": "Riisi.",
+                "description": "Täysjyvätuotteet ovat parhaita kuidunlähteitä. Vaalea pasta, valkoinen riisi ja vehnäleipä ovat toissijaisia vaihtoehtoja jotka kannattaa jättää satunnaisiksi ruuiksi. Pääsääntöisesti täysjyvätuotteita syömällä saa pidettyä energiatason tasaisena, nälän tunne pysyy poissa sekä ajatukset kirkkaampina, kun ei tule ”hiilihydraattiähkyä”. Hyviä täysjyvätuotteita ovat täysjyvä pasta ja makaroni, tumma riisi, ruisleipä, näkkäri, ruishiutalepuuro ym."
+            },
+            {
+                "question": "Kannattaako kouluruoka syödä?",
+                "option1": "Totta kai!",
+                "option2": "Ei välttämättä.",
+                "option3": "Ei, jos laihduttaa.",
+                "option4": "Parempi syödä kotona.",
+                "description": "Verensokerin tasaisena pitämiseksi koulussa kannattaa syödä kouluruoka ja välttää energiapitoisia suklaapatukoita ym.  "
+            },
+            {
+                "question": "Miksi nuoret käyttävät päihteitä? ",
+                "option1": "Kaikki mainistuista vastauksista ovat oikeita.",
+                "option2": "Koska päihteitä saa helposti.",
+                "option3": "Kokeilunhalusta.",
+                "option4": "Ympäristön paineen takia.",
+                "description": "Nuoret käyttävät päihteitä monista syistä. Yleisimmin nuoren ensimmäiset päihdekokeilut ovat kaveriporukassa."
+            },
+            {
+                "question": "Voiko alkoholin käyttö aiheuttaa muistinmenetyksiä?",
+                "option1": "Kyllä voi.",
+                "option2": "Ei voi.",
+                "option3": "Ei voi, koska alkoholin vaikutuksen alaisena ajattelee terävämmin.",
+                "option4": "Kyllä voi, koska moni väittää olevansa täysin selvä alkoholin vaikutuksen alaisena.",
+                "description": "Alkoholi rentouttaa ja tuottaa hyvän olon. Rentoutuminen näkyy myös aivoissa, jolloin aivot ´vaihtavat vapaalle,´ eivätkä työskentele yhtä tehokkaasti. Yksikin paljon alkoholin juontia sisältänyt ilta aiheuttaa muistikatkoksia ja saattaa pyyhkiä koko illan pois mielestä. "
+            },
+            {
+                "question": "Mitä ovat päihteet?",
+                "option1": "Kaikki päihdyttävät ja riippuvuutta aiheuttavat aineet.",
+                "option2": "Huumeet.",
+                "option3": "Tupakka.",
+                "option4": "Alkoholi.",
+                "description": "Kaikki päihdyttävät ja riippuvuutta aiheuttavat aineet ovat päihteitä."
+            },
+            {
+                "question": "Onko nuuskan myynti laitonta Suomessa?",
+                "option1": "On.",
+                "option2": "Ei, koska miedot huumeet ovat laillisia.",
+                "option3": "Nuuskaa saa myydä Suomessa.",
+                "option4": "On, koska niissä on samat varoitustekstit kuin tupakassa.",
+                "description": "Nuuskaa ei saa myydä Suomessa ollenkaan. Nuuska on päihdyttävä aine ja alle 18-vuotias ei saa pitää hallussaan mitään päihdyttäviä aineita."
+            }
+        ]
+    }
+}

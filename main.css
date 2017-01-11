@@ -1,0 +1,110 @@
+@import url(http://fonts.googleapis.com/css?family=Cherry+Cream+Soda);
+.wrap {
+  white-space: normal !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+#ui {
+  margin-top: 20%;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Cherry Cream Soda';
+}
+
+.ui-page .ui-header {
+  background: #2e9dd5 !important;
+}
+
+.ui-page .ui-footer {
+  background: #2e9dd5 !important;
+}
+
+.ui-btn {
+  background: #ffc34e !important;
+  color: #6B3D05 !important;
+}
+
+.ui-page {
+  background-color: #4fbae7;
+}
+
+#finalPage_feedback div img {
+  margin-left: 20%;
+  margin-top: 20%;
+}
+
+.feedback_msg {
+  text-align: center;
+}
+
+#avatar div img {
+  width: 140px;
+  height: 140px;
+}
+
+.ui-header, .ui-footer {
+border-style:none !important;
+}
+
+.ui-listview > .ui-li-static {
+border-width:2px, 0 0 !important;
+}
+.ui-btn{
+border-radius:10px !important;
+}
+.ui-corner-all{
+border-radius:0px !important;
+border-width:1px; !important;
+}
+
+
+.ui-page-theme-a .ui-panel-wrapper {
+    color: #2e9dd5;
+    text-shadow: none !important;
+}
+
+.ui-body-a, .ui-page-theme-a .ui-body-inherit, html .ui-bar-a .ui-body-inherit, html .ui-body-a .ui-body-inherit, html body .ui-group-theme-a .ui-body-inherit, html .ui-panel-page-container-a{
+
+    text-shadow: none !important;
+}
+.ui-bar-a, .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit{
+color: white !important;
+text-shadow: none !important;
+}
+
+/* display property on larger screens */
+
+@media only screen and (min-width: 600px) {
+html{
+   font: 20px arial, sans-serif;
+}
+
+.title {
+  text-align: center;
+   font: 60px arial, sans-serif;
+}
+
+  .ui-page {
+    width: 600px !important;    
+    margin: 0 auto !important;
+    position: relative !important;
+
+     border: 12px solid #2e9dd5 !important; 
+		
+  }
+
+.ui-footer {
+    width: 600px !important;    
+    margin: 0 auto !important;
+    
+
+
+ 
+  }
+
+
